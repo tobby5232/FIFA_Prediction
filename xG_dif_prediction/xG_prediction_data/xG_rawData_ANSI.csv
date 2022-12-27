@@ -1,0 +1,170 @@
+Round,Wk,Day,Date,Time,Home,xG_Home,Score_Home,Score_Away,xG_Away,Away,Attendance,Venue,Referee
+Group stage,1,Thu,2018/6/14,18:00 (23:00),Russia,1.7,5,0,0.2,Saudi Arabia,78011,Olimpiyskiy stadion Luzhniki (Neutral Site),Nestor Pitana
+Group stage,1,Fri,2018/6/15,17:00 (20:00),Egypt,0.3,0,1,1.6,Uruguay,27015,Stadion Central'nyj (Neutral Site),Bjorn Kuipers
+Group stage,1,Fri,2018/6/15,18:00 (23:00),Morocco,0.7,0,1,1,Iran,62548,Gazprom Arena (Neutral Site),Cuneyt Cak£dr
+Group stage,1,Fri,2018/6/15,21:00 (02:00),Portugal,1.2,3,3,1.6,Spain,43866,Olimpiyskiy Stadion Fisht (Neutral Site),Gianluca Rocchi
+Group stage,1,Sat,2018/6/16,13:00 (18:00),France,1.3,2,1,1,Australia,41279,Kazan Arena (Neutral Site),Andres Cunha
+Group stage,1,Sat,2018/6/16,16:00 (21:00),Argentina,1.9,1,1,1,Iceland,44190,Otkrytie Arena (Neutral Site),Szymon Marciniak
+Group stage,1,Sat,2018/6/16,19:00 (00:00),Peru,1.7,0,1,1,Denmark,40502,Mordovia Arena (Neutral Site),Bakary Papa Gassama
+Group stage,1,Sat,2018/6/16,21:00 (03:00),Croatia,1.5,2,0,0.7,Nigeria,31136,Kaliningrad Stadium (Neutral Site),Sandro Ricci
+Group stage,1,Sun,2018/6/17,16:00 (20:00),Costa Rica,0.9,0,1,0.9,Serbia,41432,Cosmos Arena (Neutral Site),Malang Diedhiou
+Group stage,1,Sun,2018/6/17,18:00 (23:00),Germany,1.4,0,1,1.3,Mexico,78011,Olimpiyskiy stadion Luzhniki (Neutral Site),Alireza Faghani
+Group stage,1,Sun,2018/6/17,21:00 (02:00),Brazil,2.2,1,1,0.9,Switzerland,43109,Rostov Arena (Neutral Site),Cesar Ramos
+Group stage,1,Mon,2018/6/18,15:00 (20:00),Sweden,2.3,1,0,0.3,Korea Republic,42300,Stadion Nizhny Novgorod (Neutral Site),Joel Aguilar
+Group stage,1,Mon,2018/6/18,18:00 (23:00),Belgium,2,3,0,0.5,Panama,43257,Olimpiyskiy Stadion Fisht (Neutral Site),Janny Sikazwe
+Group stage,1,Mon,2018/6/18,21:00 (02:00),Tunisia,1,1,2,2.8,England,41064,Volgograd Arena (Neutral Site),Wilmar Roldan
+Group stage,1,Tue,2018/6/19,15:00 (20:00),Colombia,1,1,2,2,Japan,40842,Mordovia Arena (Neutral Site),Damir Skomina
+Group stage,1,Tue,2018/6/19,18:00 (23:00),Poland,0.8,1,2,1,Senegal,44190,Otkrytie Arena (Neutral Site),Nawaf Shukralla
+Group stage,2,Tue,2018/6/19,21:00 (02:00),Russia,1.2,3,1,1.4,Egypt,64468,Gazprom Arena (Neutral Site),Enrique Caceres
+Group stage,2,Wed,2018/6/20,15:00 (20:00),Portugal,1.2,1,0,0.9,Morocco,78011,Olimpiyskiy stadion Luzhniki (Neutral Site),Mark Geiger
+Group stage,2,Wed,2018/6/20,18:00 (23:00),Uruguay,1.7,1,0,0.3,Saudi Arabia,42678,Rostov Arena (Neutral Site),Clement Turpin
+Group stage,2,Wed,2018/6/20,21:00 (02:00),Iran,0.7,0,1,1.9,Spain,42718,Kazan Arena (Neutral Site),Andres Cunha
+Group stage,2,Thu,2018/6/21,16:00 (20:00),Denmark,0.8,1,1,1.3,Australia,40727,Cosmos Arena (Neutral Site),Antonio Mateu Lahoz
+Group stage,2,Thu,2018/6/21,20:00 (23:00),France,2,1,0,0.4,Peru,32789,Stadion Central'nyj (Neutral Site),Mohammed Abdulla Hassan
+Group stage,2,Thu,2018/6/21,21:00 (02:00),Argentina,1.3,0,3,1.9,Croatia,43319,Stadion Nizhny Novgorod (Neutral Site),Ravshan Irmatov
+Group stage,2,Fri,2018/6/22,15:00 (20:00),Brazil,2.6,2,0,0.1,Costa Rica,64468,Gazprom Arena (Neutral Site),Bjorn Kuipers
+Group stage,2,Fri,2018/6/22,18:00 (23:00),Nigeria,0.9,2,0,1.3,Iceland,40904,Volgograd Arena (Neutral Site),Matt Conger
+Group stage,2,Fri,2018/6/22,20:00 (02:00),Serbia,1.5,1,2,2.1,Switzerland,33167,Kaliningrad Stadium (Neutral Site),Felix Brych
+Group stage,2,Sat,2018/6/23,15:00 (20:00),Belgium,5.2,5,2,1.1,Tunisia,44190,Otkrytie Arena (Neutral Site),Jair Marrufo
+Group stage,2,Sat,2018/6/23,18:00 (23:00),Korea Republic,0.9,1,2,1.9,Mexico,43472,Rostov Arena (Neutral Site),Milorad Ma?i?
+Group stage,2,Sat,2018/6/23,21:00 (02:00),Germany,1.4,2,1,0.9,Sweden,44287,Olimpiyskiy Stadion Fisht (Neutral Site),Szymon Marciniak
+Group stage,2,Sun,2018/6/24,15:00 (20:00),England,2.8,6,1,1.1,Panama,43319,Stadion Nizhny Novgorod (Neutral Site),Gehad Grisha
+Group stage,2,Sun,2018/6/24,20:00 (23:00),Japan,0.9,2,2,1.4,Senegal,32572,Stadion Central'nyj (Neutral Site),Gianluca Rocchi
+Group stage,2,Sun,2018/6/24,21:00 (02:00),Poland,1.1,0,3,2.1,Colombia,42873,Kazan Arena (Neutral Site),Cesar Arturo Ramos
+Group stage,3,Mon,2018/6/25,17:00 (22:00),Saudi Arabia,2.6,2,1,0.8,Egypt,36823,Volgograd Arena (Neutral Site),Wilmar Roldan
+Group stage,3,Mon,2018/6/25,18:00 (22:00),Uruguay,2.4,3,0,0.1,Russia,41970,Cosmos Arena (Neutral Site),Malang Diedhiou
+Group stage,3,Mon,2018/6/25,20:00 (02:00),Spain,2.9,2,2,1.2,Morocco,33973,Kaliningrad Stadium (Neutral Site),Ravshan Irmatov
+Group stage,3,Mon,2018/6/25,21:00 (02:00),Iran,1.4,1,1,1.3,Portugal,41685,Mordovia Arena (Neutral Site),Enrique Caceres
+Group stage,3,Tue,2018/6/26,17:00 (22:00),Australia,0.9,0,2,0.2,Peru,44073,Olimpiyskiy Stadion Fisht (Neutral Site),Sergey Karasev
+Group stage,3,Tue,2018/6/26,17:00 (22:00),Denmark,0.2,0,0,0.4,France,78011,Olimpiyskiy stadion Luzhniki (Neutral Site),Sandro Ricci
+Group stage,3,Tue,2018/6/26,21:00 (02:00),Iceland,2.1,1,2,0.7,Croatia,43472,Rostov Arena (Neutral Site),Antonio Mateu Lahoz
+Group stage,3,Tue,2018/6/26,21:00 (02:00),Nigeria,1.4,1,2,0.9,Argentina,64468,Gazprom Arena (Neutral Site),Cuneyt Cak£dr
+Group stage,3,Wed,2018/6/27,17:00 (22:00),Korea Republic,1.7,2,0,2.7,Germany,41835,Kazan Arena (Neutral Site),Mark Geiger
+Group stage,3,Wed,2018/6/27,19:00 (22:00),Mexico,1.4,0,3,2.4,Sweden,33061,Stadion Central'nyj (Neutral Site),Nestor Pitana
+Group stage,3,Wed,2018/6/27,21:00 (02:00),Switzerland,1.4,2,2,1.5,Costa Rica,43319,Stadion Nizhny Novgorod (Neutral Site),Clement Turpin
+Group stage,3,Wed,2018/6/27,21:00 (02:00),Serbia,0.8,0,2,1.4,Brazil,44190,Otkrytie Arena (Neutral Site),Alireza Faghani
+Group stage,3,Thu,2018/6/28,17:00 (22:00),Japan,0.7,0,1,1.4,Poland,42189,Volgograd Arena (Neutral Site),Janny Sikazwe
+Group stage,3,Thu,2018/6/28,18:00 (22:00),Senegal,0.5,0,1,0.3,Colombia,41970,Cosmos Arena (Neutral Site),Milorad Ma?i?
+Group stage,3,Thu,2018/6/28,20:00 (02:00),England,0.9,0,1,1.3,Belgium,33973,Kaliningrad Stadium (Neutral Site),Damir Skomina
+Group stage,3,Thu,2018/6/28,21:00 (02:00),Panama,0.6,1,2,2.2,Tunisia,37168,Mordovia Arena (Neutral Site),Nawaf Shukralla
+Round of 16,,Sat,2018/6/30,17:00 (22:00),France,2.2,4,3,0.8,Argentina,42873,Kazan Arena (Neutral Site),Alireza Faghani
+Round of 16,,Sat,2018/6/30,21:00 (02:00),Uruguay,0.6,2,1,1,Portugal,44287,Olimpiyskiy Stadion Fisht (Neutral Site),Cesar Arturo Ramos
+Round of 16,,Sun,2018/7/1,17:00 (22:00),Spain,1.8,1,1,1,Russia,78011,Olimpiyskiy stadion Luzhniki (Neutral Site),Bjorn Kuipers
+Round of 16,,Sun,2018/7/1,21:00 (02:00),Croatia,2.5,1,1,0.9,Denmark,40851,Stadion Nizhny Novgorod (Neutral Site),Nestor Pitana
+Round of 16,,Mon,2018/7/2,18:00 (22:00),Brazil,2.7,2,0,0.7,Mexico,41970,Cosmos Arena (Neutral Site),Gianluca Rocchi
+Round of 16,,Mon,2018/7/2,21:00 (02:00),Belgium,2.5,3,2,0.7,Japan,41466,Rostov Arena (Neutral Site),Malang Diedhiou
+Round of 16,,Tue,2018/7/3,17:00 (22:00),Sweden,1.3,1,0,0.7,Switzerland,64042,Gazprom Arena (Neutral Site),Damir Skomina
+Round of 16,,Tue,2018/7/3,21:00 (02:00),Colombia,0.6,1,1,2.1,England,44190,Otkrytie Arena (Neutral Site),Mark Geiger
+Quarter-finals,,Fri,2018/7/6,17:00 (22:00),Uruguay,0.9,0,2,0.5,France,43319,Stadion Nizhny Novgorod (Neutral Site),Nestor Pitana
+Quarter-finals,,Fri,2018/7/6,21:00 (02:00),Brazil,2.8,1,2,0.5,Belgium,42873,Kazan Arena (Neutral Site),Milorad Ma?i?
+Quarter-finals,,Sat,2018/7/7,18:00 (22:00),Sweden,0.5,0,2,1,England,39991,Cosmos Arena (Neutral Site),Bjorn Kuipers
+Quarter-finals,,Sat,2018/7/7,21:00 (02:00),Russia,1,2,2,1.7,Croatia,44287,Olimpiyskiy Stadion Fisht (Neutral Site),Sandro Ricci
+Semi-finals,,Tue,2018/7/10,21:00 (02:00),France,1.7,1,0,0.4,Belgium,64286,Gazprom Arena (Neutral Site),Andres Cunha
+Semi-finals,,Wed,2018/7/11,21:00 (02:00),Croatia,1.7,2,1,0.6,England,78011,Olimpiyskiy stadion Luzhniki (Neutral Site),Cuneyt Cak£dr
+Third-place match,,Sat,2018/7/14,17:00 (22:00),Belgium,1.5,2,0,1,England,64406,Gazprom Arena (Neutral Site),Alireza Faghani
+Final,,Sun,2018/7/15,18:00 (23:00),France,1.1,4,2,1.1,Croatia,78011,Olimpiyskiy stadion Luzhniki (Neutral Site),Nestor Pitana
+Group stage,1,Sun,2021/6/13,18:00 (05:00),Brazil,4.9,3,0,0.1,Venezuela,,Estadio Nacional de Brasilia (Neutral Site),Esteban Ostojich
+Group stage,1,Mon,2021/6/14,18:00 (05:00),Argentina,2.8,1,1,1,Chile,,Estadio Nilton Santos (Neutral Site),Wilmar Roldan
+Group stage,1,Sun,2021/6/13,20:00 (08:00),Colombia,0.5,1,0,0.3,Ecuador,,Arena Pantanal (Neutral Site),Nestor Pitana
+Group stage,1,Mon,2021/6/14,21:00 (08:00),Paraguay,4,3,1,0.9,Bolivia,,Estadio Olimpico Pedro Ludovico Teixeira (Neutral Site),Diego Haro
+Group stage,2,Thu,2021/6/17,18:00 (05:00),Colombia,2.3,0,0,0.1,Venezuela,,Estadio Olimpico Pedro Ludovico Teixeira (Neutral Site),Eber Aguino
+Group stage,2,Fri,2021/6/18,17:00 (05:00),Chile,1.9,1,0,0.8,Bolivia,,Arena Pantanal (Neutral Site),Jesus Gil
+Group stage,2,Thu,2021/6/17,21:00 (08:00),Brazil,3.5,4,0,1.7,Peru,,Estadio Nilton Santos (Neutral Site),Patricio Loustau
+Group stage,2,Fri,2021/6/18,21:00 (08:00),Argentina,0.8,1,0,0.1,Uruguay,,Estadio Nacional de Brasilia (Neutral Site),Wilton Pereira Sampaio
+Group stage,3,Sun,2021/6/20,18:00 (05:00),Venezuela,1.1,2,2,3.1,Ecuador,,Estadio Nilton Santos (Neutral Site),Roberto Tobar
+Group stage,3,Mon,2021/6/21,17:00 (05:00),Uruguay,1.5,1,1,0.8,Chile,,Arena Pantanal (Neutral Site),Raphael Claus
+Group stage,3,Sun,2021/6/20,21:00 (08:00),Colombia,1.5,1,2,0.9,Peru,,Estadio Olimpico Pedro Ludovico Teixeira (Neutral Site),Esteban Ostojich
+Group stage,3,Mon,2021/6/21,21:00 (08:00),Argentina,1.1,1,0,0.5,Paraguay,,Estadio Nacional de Brasilia (Neutral Site),Jesus Valenzuela
+Group stage,4,Wed,2021/6/23,18:00 (05:00),Ecuador,2.1,2,2,1.5,Peru,,Estadio Olimpico Pedro Ludovico Teixeira (Neutral Site),Jesus Gil
+Group stage,4,Thu,2021/6/24,17:00 (05:00),Bolivia,0.1,0,2,3.4,Uruguay,,Arena Pantanal (Neutral Site),Alexis Herrera
+Group stage,4,Wed,2021/6/23,21:00 (08:00),Brazil,2.8,2,1,0.2,Colombia,,Estadio Nilton Santos (Neutral Site),Nestor Pitana
+Group stage,4,Thu,2021/6/24,21:00 (08:00),Chile,0.2,0,2,1.4,Paraguay,,Estadio Nacional de Brasilia (Neutral Site),Wilmar Roldan
+Group stage,5,Sun,2021/6/27,18:00 (05:00),Brazil,1.1,1,1,0.6,Ecuador,,Estadio Olimpico Pedro Ludovico Teixeira (Neutral Site),Roberto Tobar
+Group stage,5,Sun,2021/6/27,18:00 (05:00),Venezuela,0.7,0,1,1.7,Peru,,Estadio Nacional de Brasilia (Neutral Site),Patricio Loustau
+Group stage,5,Mon,2021/6/28,20:00 (08:00),Bolivia,0.3,1,4,4.3,Argentina,,Arena Pantanal (Neutral Site),Andres Rojas
+Group stage,5,Mon,2021/6/28,21:00 (08:00),Uruguay,1.8,1,0,0.8,Paraguay,,Estadio Nilton Santos (Neutral Site),Raphael Claus
+Quarter-finals,,Fri,2021/7/2,18:00 (05:00),Peru,1.8,3,3,2.5,Paraguay,,Estadio Olimpico Pedro Ludovico Teixeira (Neutral Site),Esteban Ostojich
+Quarter-finals,,Sat,2021/7/3,19:00 (06:00),Uruguay,0.3,0,0,0.5,Colombia,,Estadio Nacional de Brasilia (Neutral Site),Jesus Gil
+Quarter-finals,,Fri,2021/7/2,21:00 (08:00),Brazil,2.3,1,0,0.5,Chile,,Estadio Nilton Santos (Neutral Site),Patricio Loustau
+Quarter-finals,,Sat,2021/7/3,22:00 (09:00),Argentina,3.2,3,0,1.3,Ecuador,,Estadio Olimpico Pedro Ludovico Teixeira (Neutral Site),Wilton Pereira Sampaio
+Semi-finals,,Mon,2021/7/5,20:00 (07:00),Brazil,2.4,1,0,0.7,Peru,,Estadio Nilton Santos,Roberto Tobar
+Semi-finals,,Tue,2021/7/6,22:00 (09:00),Argentina,2.2,1,1,0.7,Colombia,,Estadio Nacional de Brasilia,Jesus Valenzuela
+Third-place match,,Fri,2021/7/9,21:00 (08:00),Colombia,1.1,3,2,1.8,Peru,,Estadio Nacional de Brasilia,Raphael Claus
+Final,,Sat,2021/7/10,21:00 (08:00),Argentina,0.5,1,0,0.7,Brazil,7800,Estadio Jornalista Mario Filho (Neutral Site),Esteban Ostojich
+Group stage,1,Sat,2019/6/15,16:00 (03:00),Venezuela,1.1,0,0,1.7,Peru,13370,Arena do Gremio (Neutral Site),Wilmar Roldan
+Group stage,1,Sat,2019/6/15,19:00 (06:00),Argentina,0.9,0,2,1,Colombia,,Itaipava Arena Fonte Nova (Neutral Site),Roberto Tobar
+Group stage,1,Fri,2019/6/14,21:30 (08:30),Brazil,3.2,3,0,0.3,Bolivia,46342,Estadio do Morumbi (Neutral Site),Nestor Pitana
+Group stage,1,Sun,2019/6/16,16:00 (03:00),Paraguay,1.2,2,2,2.2,Qatar,,Estadio Jornalista Mario Filho (Neutral Site),Diego Haro
+Group stage,1,Sun,2019/6/16,19:00 (06:00),Uruguay,2.4,4,0,0.4,Ecuador,,Estadio Governador Magalhaes Pinto (Neutral Site),Anderson Daronco
+Group stage,1,Mon,2019/6/17,20:00 (07:00),Japan,2.2,0,4,1.7,Chile,,Estadio do Morumbi (Neutral Site),Mario Diaz de Vivar
+Group stage,2,Tue,2019/6/18,18:30 (05:30),Bolivia,1.4,1,3,2.5,Peru,,Estadio Jornalista Mario Filho (Neutral Site),Roddy Zambrano
+Group stage,2,Wed,2019/6/19,18:30 (05:30),Colombia,3.2,1,0,0.3,Qatar,,Estadio do Morumbi (Neutral Site),Alexis Herrera
+Group stage,2,Tue,2019/6/18,21:30 (08:30),Brazil,1.4,0,0,0.2,Venezuela,,Itaipava Arena Fonte Nova (Neutral Site),Julio Bascunan
+Group stage,2,Thu,2019/6/20,20:00 (07:00),Uruguay,3.3,2,2,1.2,Japan,,Arena do Gremio (Neutral Site),Andres Rojas
+Group stage,2,Wed,2019/6/19,21:30 (08:30),Argentina,1.6,1,1,1.4,Paraguay,,Estadio Governador Magalhaes Pinto (Neutral Site),Wilton Sampaio
+Group stage,2,Fri,2019/6/21,20:00 (07:00),Ecuador,1,1,2,0.5,Chile,,Itaipava Arena Fonte Nova (Neutral Site),Patricio Loustau
+Group stage,3,Sat,2019/6/22,16:00 (03:00),Peru,0.3,0,5,4,Brazil,,Estadio Governador Magalhaes Pinto (Neutral Site),Fernando Rapallini
+Group stage,3,Sat,2019/6/22,16:00 (03:00),Bolivia,0.5,1,3,2.1,Venezuela,,Arena Corinthians (Neutral Site),Esteban Ostojich
+Group stage,3,Sun,2019/6/23,16:00 (03:00),Colombia,0.9,1,0,0.8,Paraguay,,Itaipava Arena Fonte Nova (Neutral Site),Victor Carrillo
+Group stage,3,Sun,2019/6/23,16:00 (03:00),Qatar,0.2,0,2,2,Argentina,,Arena do Gremio (Neutral Site),Julio Bascunan
+Group stage,3,Mon,2019/6/24,20:00 (07:00),Chile,1,0,1,0.9,Uruguay,57442,Estadio Jornalista Mario Filho (Neutral Site),Raphael Claus
+Group stage,3,Mon,2019/6/24,20:00 (07:00),Ecuador,1.7,1,1,1.6,Japan,7623,Estadio Governador Magalhaes Pinto (Neutral Site),Jesus Valenzuela
+Quarter-finals,,Fri,2019/6/28,16:00 (03:00),Venezuela,0.7,0,2,2.4,Argentina,50094,Estadio Jornalista Mario Filho (Neutral Site),Wilmar Roldan
+Quarter-finals,,Fri,2019/6/28,20:20 (07:20),Colombia,0.3,0,0,0.8,Chile,,Arena Corinthians (Neutral Site),Nestor Pitana
+Quarter-finals,,Thu,2019/6/27,21:30 (08:30),Brazil,1.7,0,0,0.4,Paraguay,44902,Arena do Gremio (Neutral Site),Roberto Tobar
+Quarter-finals,,Sat,2019/6/29,16:00 (03:00),Uruguay,1.3,0,0,0.1,Peru,,Itaipava Arena Fonte Nova (Neutral Site),Wilton Sampaio
+Semi-finals,,Tue,2019/7/2,21:30 (08:30),Brazil,1.3,2,0,0.6,Argentina,,Estadio Governador Magalhaes Pinto (Neutral Site),Roddy Zambrano
+Semi-finals,,Wed,2019/7/3,21:30 (08:30),Chile,2.7,0,3,2.1,Peru,,Arena do Gremio (Neutral Site),Wilmar Roldan
+Third-place match,,Sat,2019/7/6,16:00 (03:00),Argentina,2.5,2,1,0.9,Chile,,Arena Corinthians (Neutral Site),Mario Diaz de Vivar
+Final,,Sun,2019/7/7,17:00 (04:00),Brazil,2,3,1,1,Peru,,Estadio Jornalista Mario Filho (Neutral Site),Roberto Tobar
+Group stage,1,Fri,2021/6/11,21:00 (03:00),Turkiye,0.6,0,3,1.9,Italy,12916,Stadio Olimpico (Neutral Site),Danny Makkelie
+Group stage,1,Sat,2021/6/12,17:00 (21:00),Wales,0.4,1,1,2.1,Switzerland,8782,Bak? Olimpiya Stadionu (Neutral Site),Clement Turpin
+Group stage,1,Sat,2021/6/12,18:00 (00:00),Denmark,1.8,0,1,0.3,Finland,13790,Parken (Neutral Site),Anthony Taylor
+Group stage,1,Sat,2021/6/12,22:00 (03:00),Belgium,1.4,3,0,0.3,Russia,26264,Gazprom Arena (Neutral Site),Antonio Mateu Lahoz
+Group stage,1,Sun,2021/6/13,14:00 (21:00),England,1.5,1,0,0.4,Croatia,18497,Wembley Stadium (Neutral Site),Daniele Orsato
+Group stage,1,Sun,2021/6/13,19:00 (00:00),Austria,2,3,1,0.6,N. Macedonia,9082,Arena Na?ional? (Neutral Site),Andreas Ekberg
+Group stage,1,Sun,2021/6/13,21:00 (03:00),Netherlands,1.5,3,2,0.5,Ukraine,15837,Johan Cruyff ArenA (Neutral Site),Felix Brych
+Group stage,1,Mon,2021/6/14,14:00 (21:00),Scotland,1.9,0,2,1.1,Czech Republic,9847,Hampden Park (Neutral Site),Daniel Siebert
+Group stage,1,Mon,2021/6/14,17:00 (00:00),Poland,1.4,1,2,0.4,Slovakia,12862,Gazprom Arena (Neutral Site),Ovidiu Ha?egan
+Group stage,1,Mon,2021/6/14,21:00 (03:00),Spain,2.3,0,0,1.2,Sweden,10559,Estadio La Cartuja de Sevilla (Neutral Site),Slavko Vin?i?
+Group stage,1,Tue,2021/6/15,18:00 (00:00),Hungary,0.2,0,3,2.5,Portugal,55662,Puskas Arena (Neutral Site),Cuneyt Cak£dr
+Group stage,1,Tue,2021/6/15,21:00 (03:00),France,0.3,1,0,0.9,Germany,13000,Allianz Arena (Neutral Site),Carlos del Cerro
+Group stage,2,Wed,2021/6/16,16:00 (21:00),Finland,0.8,0,1,1,Russia,24540,Gazprom Arena (Neutral Site),Danny Makkelie
+Group stage,2,Wed,2021/6/16,20:00 (00:00),Turkiye,1.2,0,2,3.5,Wales,19762,Bak? Olimpiya Stadionu (Neutral Site),Artur Soares Dias
+Group stage,2,Wed,2021/6/16,21:00 (03:00),Italy,2.7,3,0,0.2,Switzerland,12445,Stadio Olimpico (Neutral Site),Sergey Karasev
+Group stage,2,Thu,2021/6/17,16:00 (21:00),Ukraine,3.4,2,1,1.3,N. Macedonia,10001,Arena Na?ional? (Neutral Site),Fernando Rapallini
+Group stage,2,Thu,2021/6/17,18:00 (00:00),Denmark,1.7,1,2,0.9,Belgium,23395,Parken (Neutral Site),Bjorn Kuipers
+Group stage,2,Thu,2021/6/17,21:00 (03:00),Netherlands,3.1,2,0,0.7,Austria,15243,Johan Cruyff ArenA (Neutral Site),Orel Grinfeeld
+Group stage,2,Fri,2021/6/18,14:00 (21:00),Sweden,1.7,1,0,0.5,Slovakia,11525,Gazprom Arena (Neutral Site),Daniel Siebert
+Group stage,2,Fri,2021/6/18,17:00 (00:00),Croatia,0.9,1,1,1.6,Czech Republic,5607,Hampden Park (Neutral Site),Carlos del Cerro
+Group stage,2,Fri,2021/6/18,20:00 (03:00),England,1.4,0,0,0.6,Scotland,20306,Wembley Stadium (Neutral Site),Antonio Mateu Lahoz
+Group stage,2,Sat,2021/6/19,15:00 (21:00),Hungary,0.4,1,1,2,France,55998,Puskas Arena (Neutral Site),Michael Oliver
+Group stage,2,Sat,2021/6/19,18:00 (00:00),Portugal,2,2,4,2.6,Germany,12926,Allianz Arena (Neutral Site),Anthony Taylor
+Group stage,2,Sat,2021/6/19,21:00 (03:00),Spain,2.9,1,1,1.3,Poland,11742,Estadio La Cartuja de Sevilla (Neutral Site),Daniele Orsato
+Group stage,3,Sun,2021/6/20,18:00 (00:00),Italy,2,1,0,0.4,Wales,11541,Stadio Olimpico (Neutral Site),Ovidiu Ha?egan
+Group stage,3,Sun,2021/6/20,20:00 (00:00),Switzerland,2.1,3,1,1.2,Turkiye,17138,Bak? Olimpiya Stadionu (Neutral Site),Slavko Vin?i?
+Group stage,3,Mon,2021/6/21,18:00 (00:00),N. Macedonia,1.1,0,3,3.1,Netherlands,15227,Johan Cruyff ArenA (Neutral Site),Istvan Kovacs
+Group stage,3,Mon,2021/6/21,19:00 (00:00),Ukraine,0.3,0,1,1.6,Austria,10472,Arena Na?ional? (Neutral Site),Cuneyt Cak£dr
+Group stage,3,Mon,2021/6/21,21:00 (03:00),Russia,1.1,1,4,2.1,Denmark,23644,Parken (Neutral Site),Clement Turpin
+Group stage,3,Mon,2021/6/21,22:00 (03:00),Finland,0.4,0,2,1.6,Belgium,18545,Gazprom Arena (Neutral Site),Felix Brych
+Group stage,3,Tue,2021/6/22,20:00 (03:00),Croatia,1,3,1,1.4,Scotland,9896,Hampden Park (Neutral Site),Fernando Rapallini
+Group stage,3,Tue,2021/6/22,20:00 (03:00),Czech Republic,0.3,0,1,1.5,England,19104,Wembley Stadium (Neutral Site),Artur Soares Dias
+Group stage,3,Wed,2021/6/23,17:00 (00:00),Sweden,1.1,3,2,1.9,Poland,14252,Gazprom Arena (Neutral Site),Michael Oliver
+Group stage,3,Wed,2021/6/23,18:00 (00:00),Slovakia,0.1,0,5,3.4,Spain,11204,Estadio La Cartuja de Sevilla (Neutral Site),Bjorn Kuipers
+Group stage,3,Wed,2021/6/23,21:00 (03:00),Germany,2.2,2,2,0.8,Hungary,12413,Allianz Arena (Neutral Site),Sergey Karasev
+Group stage,3,Wed,2021/6/23,21:00 (03:00),Portugal,1.9,2,2,1.9,France,54886,Puskas Arena (Neutral Site),Antonio Mateu Lahoz
+Round of 16,,Sat,2021/6/26,18:00 (00:00),Wales,0.6,0,4,2.7,Denmark,14645,Johan Cruyff ArenA (Neutral Site),Daniel Siebert
+Round of 16,,Sat,2021/6/26,20:00 (03:00),Italy,1.9,2,1,0.8,Austria,18910,Wembley Stadium (Neutral Site),Anthony Taylor
+Round of 16,,Sun,2021/6/27,18:00 (00:00),Netherlands,0.9,0,2,1.6,Czech Republic,52834,Puskas Arena (Neutral Site),Sergey Karasev
+Round of 16,,Sun,2021/6/27,21:00 (03:00),Belgium,0.2,1,0,1.4,Portugal,11504,Estadio La Cartuja de Sevilla (Neutral Site),Felix Brych
+Round of 16,,Mon,2021/6/28,18:00 (00:00),Croatia,3.2,3,5,3.6,Spain,22771,Parken (Neutral Site),Cuneyt Cak£dr
+Round of 16,,Mon,2021/6/28,22:00 (03:00),France,3.4,3,3,1.9,Switzerland,22642,Arena Na?ional? (Neutral Site),Fernando Rapallini
+Round of 16,,Tue,2021/6/29,17:00 (00:00),England,1.3,2,0,1.4,Germany,41973,Wembley Stadium (Neutral Site),Danny Makkelie
+Round of 16,,Tue,2021/6/29,20:00 (03:00),Sweden,1.2,1,2,1.8,Ukraine,9221,Hampden Park (Neutral Site),Daniele Orsato
+Quarter-finals,,Fri,2021/7/2,19:00 (00:00),Switzerland,0.8,1,1,2.9,Spain,24764,Gazprom Arena,Michael Oliver
+Quarter-finals,,Fri,2021/7/2,21:00 (03:00),Belgium,1.8,1,2,1.7,Italy,12984,Allianz Arena,Slavko Vin?i?
+Quarter-finals,,Sat,2021/7/3,20:00 (00:00),Czech Republic,1.6,1,2,1.5,Denmark,16306,Bak? Olimpiya Stadionu,Bjorn Kuipers
+Quarter-finals,,Sat,2021/7/3,21:00 (03:00),Ukraine,0.3,0,4,2,England,11880,Stadio Olimpico,Felix Brych
+Semi-finals,,Tue,2021/7/6,20:00 (03:00),Italy,0.8,1,1,1.5,Spain,57811,Wembley Stadium,Felix Brych
+Semi-finals,,Wed,2021/7/7,20:00 (03:00),England,2.7,2,1,0.2,Denmark,64950,Wembley Stadium,Danny Makkelie
+Final,,Sun,2021/7/11,20:00 (03:00),Italy,2.2,1,1,0.6,England,67173,Wembley Stadium (Neutral Site),Bjorn Kuipers

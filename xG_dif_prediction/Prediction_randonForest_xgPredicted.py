@@ -10,6 +10,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+from xG_prediction_linearRegression import xG_predicted_method as xg
 
 #%%
 #Dataframe information
@@ -30,22 +31,36 @@ data_full['result'] = data_full['result'].map(label_map)
 print(data_full.info())
 
 #%%
-#Seperate X & y data
+#Simplifized dataframe
 data_simple=data_full[['result',
-                       'odd_dif',
                        'Draw_odd',
+                       'odd_dif',
+                       'ovr_dif',
+                       'att_dif',
+                       'mid_dif',
+                       'defe_dif',
+                       'rank_dif',
                        'points_dif',
                        'Elo_ranking_dif',
                        'Elo_rating_dif',
-                       'att_dif',
-                       'mid_dif',
-                       'defe_dif']]
+                       'goal_balance_dif']]
 
+#%%
+#Import xG_prediction
+xG_predicted=xg(data_simple[['Elo_rating_dif']])
+# print(xG_predicted)
 
+data_simple.insert(len(data_simple.columns),'xG_predicted',xG_predicted)
+# print(data_simple)
 
+#%%
+#Seperate X & y data
 from sklearn.model_selection import train_test_split
 X=data_simple.drop(labels=['result'],axis=1)
 y=data_simple['result']
+
+# print(data_simple.info())
+
 
 #%%
 #Standardization 平均&變異數標準化
@@ -98,6 +113,14 @@ print('訓練集: ',randomForestModel.score(X_train,y_train))
 print('測試集: ',randomForestModel.score(X_test,y_test))
 
 #%%
+#Output data
+label_map_rollBack = {0: 'win', 1: 'lose', 2: 'draw'}
+data_simple['result'] = data_simple['result'].map(label_map_rollBack)
+
+data_simple.to_csv("cleanData_xG_dif.csv", index = None)
+print(data_simple.info())
+
+#%%
 #Feature importance
 data_simple = data_simple.set_index('result')
 
@@ -109,6 +132,4 @@ df_imp=pd.DataFrame(dic_imp)
 df_imp=df_imp.sort_values(by=['imp'],ascending=False)
 
 print(df_imp)
-
-
 
