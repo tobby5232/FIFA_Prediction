@@ -49,7 +49,7 @@ data_3=[]
 dtat_goal=[]
 data_xG=[]
 
-for _ in range(100):
+for _ in range(60):
     d1=pridicted_accuracy('cleanData.csv')
     data_1.append(d1)
     d2=pridicted_accuracy('cleanData_V2.csv')
@@ -67,11 +67,11 @@ x_axis=[i for i in range(len(data_1))]
 #Plot scatter for testing data accuracy
     
 fig, ax = plt.subplots(figsize=(7, 5), tight_layout=True,dpi=200)
-# plt.scatter(x_axis, data_1,s=10, label='data_1',color='red')
+plt.scatter(x_axis, data_1,s=10, label='data_1',color='red')
 plt.scatter(x_axis, data_2,s=10, label='origin_data',color='blue')
-plt.scatter(x_axis, data_3,s=10, label='data_3',color='green')
+# plt.scatter(x_axis, data_3,s=10, label='data_3',color='green')
 plt.scatter(x_axis, dtat_goal,s=10, label='dtat_goal',color='yellow')
-# plt.scatter(x_axis, data_xG,s=10, label='data_xG',color='gray')
+plt.scatter(x_axis, data_xG,s=10, label='data_xG',color='gray')
 
 plt.ylabel('Model score')
 plt.legend()

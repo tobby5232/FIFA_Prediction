@@ -151,7 +151,7 @@ ax2.axis([-1,len(data_group_dif),100,0])
 ax2.set_ylabel("FIFA ranking",size=10,color='red')
 
 ax.set_xlabel("Countary",size=10)
-plt.title("Goal difference per team",size=15)
+plt.title("Goal difference per game",size=15)
 
 plt.show()
 #%%
@@ -174,8 +174,9 @@ print('MSE score: ', mse)
 
 fig, ax = plt.subplots(figsize=(7, 5), tight_layout=True,dpi=200)
 plt.scatter(data_simp['Elo_rating_dif'], data_simp['goal_dif'],s=10, label='origin')
-plt.plot(data_simp['Elo_rating_dif'], predicted,label='predicted')
+plt.plot(data_simp['Elo_rating_dif'], predicted,label='predicted',color='black')
 plt.xlabel('Elo_rating_dif')
 plt.ylabel('goal_dif')
+plt.title('Linearity between goal_dif & Elo_rating_dif')
 plt.legend()
 plt.show()

@@ -16,8 +16,6 @@ import numpy as np
 # Import xG data
 df_xG_final = pd.read_csv(r'D:\chuanght\097202\Coding\專題\TobbyProject\Word cup prediction\Tobby\xG_dif_prediction\xG_data.csv')
 
-print(df_xG_final.info)
-
 #%%
 #Plot correlation matrix
 

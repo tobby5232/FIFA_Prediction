@@ -23,6 +23,10 @@ print(df_xG_final.info)
 
 df_xG_final_simp=df_xG_final[['goal_dif','xG_dif','Elo_ranking_dif',
                               'Elo_rating_dif','avg_rank_dif','avg_rating_dif']]
+
+# df_xG_final_simp=df_xG_final[['xG_dif','rank_dif','points_dif',
+#                               'ovr_dif','att_dif','mid_dif','defe_dif',
+#                               'Elo_ranking_dif','Elo_rating_dif']]
 plt.style.use('ggplot')
 plt.figure(dpi=200)
 
